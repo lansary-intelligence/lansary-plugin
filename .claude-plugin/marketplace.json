@@ -1,0 +1,14 @@
+{
+  "name": "lansary-public-beta",
+  "owner": {
+    "name": "Lansary",
+    "email": "jamie.lansdell@lansary.com"
+  },
+  "plugins": [
+    {
+      "name": "lansary",
+      "source": "./",
+      "description": "Public beta: evidence-led company research through Lansary's hosted OAuth service."
+    }
+  ]
+}

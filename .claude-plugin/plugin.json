@@ -1,0 +1,19 @@
+{
+  "name": "lansary",
+  "version": "0.1.0-beta.1",
+  "description": "Public beta: company research with evidence, sources and dates through Lansary's hosted service.",
+  "author": {
+    "name": "Lansary",
+    "email": "jamie.lansdell@lansary.com",
+    "url": "https://lansary.com"
+  },
+  "homepage": "https://lansary.com/company-research/",
+  "repository": "https://github.com/lansary-intelligence/lansary-plugin",
+  "keywords": [
+    "company-research",
+    "ownership",
+    "financials",
+    "evidence",
+    "public-beta"
+  ]
+}

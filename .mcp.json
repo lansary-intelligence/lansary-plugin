@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lansary": {
+      "type": "http",
+      "url": "https://mcp.lansary.com/mcp/research"
+    }
+  }
+}

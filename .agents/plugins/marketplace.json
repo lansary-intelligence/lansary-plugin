@@ -1,0 +1,20 @@
+{
+  "name": "lansary-public-beta",
+  "interface": {
+    "displayName": "Lansary Public Beta"
+  },
+  "plugins": [
+    {
+      "name": "lansary",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
